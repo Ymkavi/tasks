@@ -1,0 +1,48 @@
+{
+  "task1": [
+    { "from": 20, "to": 8042 },
+    { "from": -14, "to": -112422 },
+    { "from": 1, "to": 3 }
+  ],
+  "task2": [
+    [1, 2, 3, 4, 4],
+    [1, 2, 2, 3, 4]
+  ],
+  "task3.1": [101, 95, 65, -90],
+  "task3.2": [
+    {
+      "tShirts": {
+        "S": 0,
+        "M": 10,
+        "L": 10,
+        "XL": 10,
+        "XXL": 10,
+        "XXXL": 10
+      },
+      "requests": [
+        ["S", "M"],
+        ["L"],
+        ["XXXL"],
+        ["XXL", "XXXL"],
+        ["L"],
+        ["S", "M"],
+        ["M", "L"]
+      ]
+    }
+  ],
+  "task4": [
+    [
+      [null, null, null, null, null],
+      [null, null, null, "actor", null],
+      [null, "actor", null, null, null],
+      [null, null, null, null, null],
+      [null, null, "actor", null, null],
+      [null, null, null, null, null]
+    ],
+    [
+      ["actor", "actor", "actor", "actor"],
+      ["actor", "actor", "actor", "actor"],
+      ["actor", "actor", "actor", "actor"]
+    ]
+  ]
+}
